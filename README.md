@@ -5,7 +5,6 @@
 <p align="center"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="shields"><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&amp;logo=tmux&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&amp;logo=windows%20terminal&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&amp;logo=iterm2&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="shields"></p><br><br>
 
 <h2>💡 Usage:</h2><br>
-
 ```
 python GPTPythonFixer.py <file_path> [-p | --pipe]
 
@@ -14,7 +13,7 @@ Arguments:
 * file_path: The path to the Python file to be fixed or analyzed.
 * -p, --pipe: Optional argument. If provided, the script will use the output of the Python file via pipe instead of directly processing the file.
 
-<h2>🛠️ Functionality:</h2><br>
+<br><h2>🛠️ Functionality:</h2><br>
 
 1. Reads the specified Python file or captures the output of a Python file via pipe.<br>
 2. Interacts with ChatGPT to generate suggestions or explanations based on the provided Python code or output.<br>
@@ -41,5 +40,5 @@ Arguments:
 
 
 
-<h2>🛡️ License:</h2><br>
+<br><h2>🛡️ License:</h2><br>
 This project is licensed under the <a href="https://github.com/z0m31en7/GPTPythonFixer/blob/main/LICENSE">MIT-LICENSE</a><br><br>

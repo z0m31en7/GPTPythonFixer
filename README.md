@@ -38,7 +38,7 @@ Arguments:
 * Replace 'YOUR_API_KEY' with your actual OpenAI API key in the script.
 * Exercise caution when replacing code in a file and perform adequate testing.
 * The script provides a basic example and may not handle all complex code or errors.
-
+* The changes are suggested by ChatGPT and might contain errors.
 
 
 <br><h2>🛡️ License:</h2><br>
